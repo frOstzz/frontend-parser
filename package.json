@@ -1,0 +1,17 @@
+{
+  "name": "frontend-parser",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie < 11",
+    "not dead"
+  ]
+}
