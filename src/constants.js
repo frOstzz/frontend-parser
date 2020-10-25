@@ -5,5 +5,6 @@ export default {
   },
   PARAMETERS: {
     APP_ID: '-177332750'
-  }
+  },
+  DATE_MASK: 'DD.MM.YYYY HH:mm'
 }
