@@ -4,7 +4,7 @@ import moment from "moment";
 import hoursToMilliseconds from "./numberUtils";
 
 const { Telegraf } = require('telegraf');
-const bot = new Telegraf('1386576345:AAEWUF8Q9S19oSv2klfGremmv2h0Z4DocIw');
+const bot = new Telegraf('YOUR_TELEGRAM_BOT_TOKEN');
 
 let isSent = false;
 
